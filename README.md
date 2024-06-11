@@ -1,4 +1,5 @@
 # Face Accessories
+It is implemented in python using OpenCV
 
 Project recognizes face and 
 - after clicking 'a' glasses are shown on it
